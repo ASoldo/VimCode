@@ -1,5 +1,5 @@
 # VimCode
-Vim VS COde remaps
+Vim VS Code remaps
 Paste to VS Code -> Users/User/AppData/Roaming/Code/User/settings.json
 
 ```json
