@@ -17,15 +17,15 @@ Paste to VS Code -> Users/User/AppData/Roaming/Code/User/settings.json
 }
 ],
 "vim.handleKeys": {
-"<C-d>": true,
-"<C-c>": false,
-"<C-v>": false,
-"<C-x>": false,
-"<C-a>": false,
-"<C-q>": false,
-"<C-k>": false,
-"<C-n>": false,
-"<C-w>": false,
-"<C-b>": false,
+  "<C-d>": true,
+  "<C-c>": false,
+  "<C-v>": false,
+  "<C-x>": false,
+  "<C-a>": false,
+  "<C-q>": false,
+  "<C-k>": false,
+  "<C-n>": false,
+  "<C-w>": false,
+  "<C-b>": false,
 }
 ```
