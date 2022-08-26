@@ -29,3 +29,5 @@ Paste to VS Code -> Users/User/AppData/Roaming/Code/User/settings.json
   "<C-b>": false,
 }
 ```
+Vim Cheat Sheet:
+https://vim.rtorr.com
