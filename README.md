@@ -2,6 +2,7 @@
 Vim VS COde remaps
 Paste to VS Code -> Users/User/AppData/Roaming/Code/User/settings.json
 
+```json
 "vim.commandLineModeKeyBindings": [
     
     ],
@@ -28,3 +29,4 @@ Paste to VS Code -> Users/User/AppData/Roaming/Code/User/settings.json
     "<C-w>": false,
     "<C-b>": false,
     }
+```
